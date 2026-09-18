@@ -3,7 +3,7 @@ fruits = ['apple', 'banana', 'cherry', 'date']
 
 # Print the first and the last item using indexes
 print("first fruit:", fruits[0])
-print("last fruit:", fruits[3])
+print("last fruit:", fruits[-1])
 
 # .append() a fifth fruit, then print the whole list
 
